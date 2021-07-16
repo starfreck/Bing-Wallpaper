@@ -14,7 +14,8 @@ pysondb 1.2.1
 
 
 ##  Todo
-- [ ]  Make Location Dynamic
+- [ ] Make Location Dynamic
+- [ ] Add into systemd
 - [ ] Add support for other Linux Desktop Enviroment
 - [ ] Add support for Windows & Mac OS ( using py-wallpaper )
 
